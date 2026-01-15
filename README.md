@@ -3,7 +3,7 @@ Je suis développeuse BI, avec plus de 3 ans d’expérience entre le développe
 
 ---
 
-## 🧑💻 Profil
+## 💻 Profil
 
 * **Formation :**
 
