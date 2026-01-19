@@ -40,6 +40,7 @@ Je suis développeuse BI, avec plus de 3 ans d’expérience entre le développe
 * Extraction, transformation et chargement des données pour le reporting BI
 * **Impact concret :** Automatisation de l’intégration des données avec SSIS, réduction du temps de traitement manuel de 70% et amélioration de la qualité des rapports BI.
 
+---
 ## 📌 Objectif
 
 Mon objectif est de rejoindre une **équipe BI à Montréal**, où je pourrai mettre à profit mes compétences techniques et analytiques pour **transformer les données en insights stratégiques**, tout en continuant à apprendre et évoluer dans le domaine de l’intelligence d’affaires.
