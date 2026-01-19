@@ -21,10 +21,10 @@ Je suis développeuse BI, avec plus de 3 ans d’expérience entre le développe
 
   * Bases de données SQL et No-SQL : SQL Server 2014-2022, MySQL, MongoDB
   * BI & ETL : Power BI, SSIS, SSAS, Report Builder(SSRS), Crystal Reports
-  * Langages : VB.NET, C#, Python
+  * Langages : VB.NET, C#, Python, Visual studio code
   * Méthodes et langages de modélisation (Merise, UML)
   * Modélisation décisionnelle (étoile, flocon)
-  * Dashboards, KPIs, procédures stockées, analyse de données
+  * Dashboards, KPIs, procédures stockées, analyse de données(Data Profile Viewer)
 
 ---
 ## 📂 Projets BI
