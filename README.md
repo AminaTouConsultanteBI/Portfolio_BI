@@ -33,9 +33,9 @@ Je suis développeuse BI, avec plus de 3 ans d’expérience entre le développe
 
 ![ETL En SQL Server](images/etl_sql.png)
 
-![ETL En SSIS](images/etl_ssis_tp1.png)
+![ETL En SSIS/TP1](images/etl_ssis_tp1.png)
 
-![ETL En SSIS](images/etl_ssis_tp2.png)
+![ETL En SSIS/TP2](images/etl_ssis_tp2.png)
 
 * Extraction, transformation et chargement des données pour le reporting BI
 * **Impact concret :** Automatisation de l’intégration des données avec SSIS, réduction du temps de traitement manuel de 70% et amélioration de la qualité des rapports BI.
